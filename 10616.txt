@@ -1,0 +1,24 @@
+oracle 管理口令  csh123456
+
+
+datacube 账号密码   c_aixiang    cpic12345.
+
+
+
+oracle数据库   URL  29.28.145.123:18123/auto
+             uesename  channelowner
+             password   FANzao46!
+
+	URL  10.186.72.14:1521/auto
+       username  channelowner
+       password  2wsx#EDC
+
+
+http://code.hq.cpic.com/CMS/p09channel.git
+
+5010100
+999
+0
+
+
+https://github.com/shengc1029/myproject.git
